@@ -33,6 +33,7 @@ An interactive and elegant dashboard built with **Vue.js 3**, designed for real-
 ---
 
 ## 📁 Folder Structure
+
 src/
 ├── components/
 │ ├── PieChart.vue
@@ -41,4 +42,8 @@ src/
 │ └── Dashboard.vue
 ├── App.vue
 └── main.js
+src/views/Dashboard.vue
+src/App.vue
+src/main.js
+
 
